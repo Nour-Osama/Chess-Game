@@ -1,6 +1,9 @@
 # Chess-Game
 Chess Game developed from scratch using only jdk and javafx 
 
+transparent piece images are taken from:
+[wikimedia.org](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent)
+
 some screenshots
 
 1) initial board
